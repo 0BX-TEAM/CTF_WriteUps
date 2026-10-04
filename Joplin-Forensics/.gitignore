@@ -1,0 +1,7 @@
+database.sqlite
+database.sqlite-wal
+database.sqlite-shm
+encrypted.txt
+*.zip
+__pycache__/
+*.pyc
